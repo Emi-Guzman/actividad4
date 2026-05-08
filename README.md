@@ -1,3 +1,5 @@
+## COMMIT 1:
+### Reposicion De los proyectiles
 Los proyectiles vuelven al lado derecho de la pantalla en una altura aleatoria si salen de la ventana 
 
 
@@ -20,4 +22,11 @@ En cada ciclo del cronómetro (ontimer), el código resta una cantidad de píxel
 Línea modificada: speed.x = (x + 200) / 25 $\rightarrow$ speed.x = (x + 200) / 15.
 
 La velocidad inicial del disparo se calcula dividiendo la distancia entre el clic y el origen. Al disminuir el divisor, el resultado de la operación matemática (el vector de velocidad) es más grande.
+
+
+####  Autores:
+
+Santiago Acosta Gaytan - a01827126
+
+Jose Emiliano Guzman Arriega - a01826972
 
